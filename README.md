@@ -6,30 +6,30 @@ Lead Data Engineer with **10+ years** architecting, modernizing, and operating e
 
 **10 engineers mentored** · **50+ production pipelines supported** · **30% reliability improvement** · **~25% less processing overhead**
 
-## Featured projects — aligned with my current resume
+## Featured Projects
 
-The repositories below are **independent portfolio/reference implementations** demonstrating selected techniques related to the projects on my resume. They are not public copies of employer production systems, and examples use synthetic data.
+Selected projects showcasing data platform engineering, lakehouse modernization, streaming architectures, and machine learning data workflows.
 
 ### 1. [Enterprise Lakehouse Modernization & Governed AI-Ready Data Products](https://github.com/devmasonmir/enterprise-cloud-data-migration/tree/main/projects/enterprise-lakehouse-modernization)
 
-**Relevant architecture:** Azure Databricks, Delta Lake, Auto Loader, medallion architecture, PySpark, dbt, Unity Catalog, Terraform, Databricks Asset Bundles, and CI/CD.
+**Technologies:** Azure Databricks, Delta Lake, Auto Loader, medallion architecture, PySpark, dbt, Unity Catalog, Terraform, Databricks Asset Bundles, and CI/CD.
 
-- Added a runnable **Bronze → Silver → Gold** batch example with validation, in-batch deduplication, data quality diagnostics, and customer-level dimensional aggregates.
-- Included a dbt Gold-model example and automated regression tests; the cloud architecture is documented as a reference, not a deployed environment.
+- Bronze-to-Gold data processing with validation, deduplication, reconciliation, and customer-level dimensional aggregates.
+- dbt dimensional modeling, automated regression testing, and CI workflows, with cloud architecture examples.
 
 ### 2. [Real-Time Data Streaming and Lakehouse Platform](https://github.com/devmasonmir/realtime-lakehouse-streaming-platform)
 
 **Relevant architecture:** Apache Kafka, Kafka Streams, CDC, Spark Structured Streaming, PySpark, Databricks, Delta Lake, Airflow, and incremental processing.
 
-- Demonstrates event contracts, record validation, offline batch checks, and synthetic streaming/lakehouse patterns.
-- Documents Bronze/Silver/Gold architecture, data quality, observability, and failure-handling considerations.
+- Event-driven ingestion patterns, schema validation, CDC processing, and streaming data quality checks.
+- Medallion lakehouse design with observability, monitoring, and failure-handling patterns.
 
 ### 3. [AI and Machine Learning Data Platform](https://github.com/devmasonmir/ai-ml-data-platform)
 
 **Relevant architecture:** Python, PySpark, Apache Spark, Databricks, Delta Lake, ML-ready datasets, feature engineering, RAG data preparation, Terraform, and CI/CD.
 
-- Demonstrates Python feature aggregation, Population Stability Index (PSI) drift detection, and RAG-ready document normalization.
-- Contains unit tests, automated GitHub Actions checks, and infrastructure reference examples.
+- Feature engineering, Population Stability Index (PSI) drift detection, and RAG-ready document processing.
+- Python regression tests, GitHub Actions CI, and Terraform infrastructure examples.
 
 ## Additional portfolio repositories
 
