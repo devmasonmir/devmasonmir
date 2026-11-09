@@ -6,7 +6,7 @@ Lead Data Engineer with **10+ years** architecting, modernizing, and operating e
 
 **10 engineers mentored** · **50+ production pipelines supported** · **30% reliability improvement** · **~25% less processing overhead**
 
-## Featured Projects
+## Projects
 
 Selected projects showcasing data platform engineering, lakehouse modernization, streaming architectures, and machine learning data workflows.
 
